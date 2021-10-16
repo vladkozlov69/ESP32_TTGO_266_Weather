@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#include "secrets.h"
+//#include "secrets.h"
 // Change to your WiFi credentials
 //const char* ssid     = "****";
 //const char* password = "****";
